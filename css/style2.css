@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.basliq input{
+  margin-top: 80px;
+  width: 40%;
+  border-radius: 8px;
+  height: 35px;
+}
+.basliq .satilir{
+  width: 80px;
+}
+.basliq i{
+  text-align: center;
+  width: 20px ;
+  height: 20px;
+  border:1px solid;
+  margin-left: -30px;
+}
+.basliq i:hover{
+  color:rgb(122, 122, 122);
+}
+.Sag {
+  gap:5px;
+  display: flex;
+  margin-top: -30px;
+  margin-left:70%;
+}
+.Sag select{
+  height: 35px;
+  border-radius: 10px;
+}
+
+.Sag button{
+  border-radius: 10px;
+  margin-top: -px;
+  background-color: blue;
+  color:white;
+  width: 100px;
+  height: 35px;
+} 
+.Sag button:hover{
+  color: blue;
+  background-color: white;
+}
+.xerite{
+  display: flex;
+}
+.xerite select{
+  text-decoration:none;
+  border: none;
+  color: blue;
+  margin-top: 40px;
+  width: 200px;
+  height: 30px;
+  margin-left: 30%;
+}
+.xerite select:hover{
+  text-decoration: underline;
+}
+.xerite p{
+  margin-top: 40px;
+  margin-left: -30%;
+}
+.xerite option{
+  color: #1c3d48;
+}
