@@ -1,0 +1,206 @@
+[
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "4 / 5",
+        "sahe": "125 m²",
+        "otaq_sayi": 5,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": " 8-ci mikrorayon q.",
+        "qiymet": "270 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Раксана",
+            "nov": "agent",
+            "elaqe": "(050) 209-36-23"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "5 / 5",
+        "sahe": "65 m²",
+        "otaq_sayi": 5,
+        "cixarish": "yoxdur",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "20 Yanvar m.",
+        "qiymet": "136 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Vəfa xanım.",
+            "nov": "agent",
+            "elaqe": "(050) 235-78-82"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "1 / 3",
+        "sahe": "65 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "var",
+        "temir": "var",
+        "ünvan": "Həzi Aslanov m.",
+        "qiymet": "119 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Rövşən.",
+            "nov": "mülkiyyətçi",
+            "elaqe": "(070) 822-24-79"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "9 / 9",
+        "sahe": "75 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "Xətai r.",
+        "qiymet": "165 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Xaliq.",
+            "nov": "agent",
+            "elaqe": "(070) 822-24-79"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "4 / 5",
+        "sahe": "35 m²",
+        "otaq_sayi": 1,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "Neftçilər m.",
+        "qiymet": "95 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Anar",
+            "nov": "agent",
+            "elaqe": "(050) 266-06-66"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "1 / 9",
+        "sahe": "63 m²",
+        "otaq_sayi": 2,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "yoxdur",
+        "ünvan": "Azadlıq Prospekti m.",
+        "qiymet": "155 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Fidan xanım",
+            "nov": "agent",
+            "elaqe": "(010) 397-13-13"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "4 / 9",
+        "sahe": "100 m²",
+        "otaq_sayi": 4,
+        "cixarish": "var",
+        "ipoteka": "var",
+        "temir": "var",
+        "ünvan": "Yeni Yasamal q.",
+        "qiymet": "200 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Sahib",
+            "nov": "mülkiyyətçi",
+            "elaqe": "(055) 425-20-20"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "7 / 9",
+        "sahe": "90 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "var",
+        "temir": "var",
+        "ünvan": "İnşaatçılar m.",
+        "qiymet": "175 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Pərvin bəy",
+            "nov": "agent",
+            "elaqe": "(051) 961-46-96"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "3 / 5",
+        "sahe": "85 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "Nizami m.",
+        "qiymet": "205 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Yaqub bəy",
+            "nov": "agent",
+            "elaqe": "(077) 270-30-61"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "8 / 9",
+        "sahe": "60 m²",
+        "otaq_sayi": 2,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "Yeni Günəşli q.",
+        "qiymet": "107 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Yeni Günəşli Mtk",
+            "nov": "agent",
+            "elaqe": "(055) 697-77-17"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "7 / 8",
+        "sahe": "85 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": " İçəri Şəhər m.",
+        "qiymet": "350 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Daşınmaz əmlak",
+            "nov": "agent",
+            "elaqe": "(050) 620-62-62"
+        }
+    },
+    {
+        "kateqoriya": "Köhnə tikili",
+        "mertebe": "4 / 4",
+        "sahe": "75 m²",
+        "otaq_sayi": 3,
+        "cixarish": "var",
+        "ipoteka": "yoxdur",
+        "temir": "var",
+        "ünvan": "Sahil m.",
+        "qiymet": "260 000 AZN",
+        "image": [],
+        "vasiteci": {
+            "ad": "Daşınmaz əmlak",
+            "nov": "agent",
+            "elaqe": "(050) 355-89-99"
+        }
+    }
+]
