@@ -9,7 +9,7 @@
         "temir": "var",
         "ünvan": "28 May m.",
         "qiymet": "1 500 AZN",
-        "image": [],
+        "image": [ "sekil1.jpg", "sekil2.jpg", "sekil3.jpg", "sekil4.jpg"],
         "vasiteci": {
             "ad": "Teymur",
             "nov": "mülkiyyətçi",
@@ -26,7 +26,7 @@
         "temir": "var",
         "ünvan": "Ağ şəhər q.",
         "qiymet": "1 800 AZN",
-        "image": [],
+        "image": [  "sekil5.jpg", "sekil6.jpg", "sekil7.jpg", "sekil8.jpg"],
         "vasiteci": {
             "ad": "Azure",
             "nov": "mülkiyyətçi",
@@ -43,7 +43,7 @@
         "temir": "var",
         "ünvan": "Şah İsmayıl Xətai m.",
         "qiymet": "1 800 AZN",
-        "image": [],
+        "image": [ "sekil9.jpg", "sekil10.jpg", "sekil11.jpg", "sekil12.jpg"],
         "vasiteci": {
             "ad": "Röyal bəy.",
             "nov": "agent",
@@ -60,7 +60,7 @@
         "temir": "var",
         "ünvan": "20 Yanvar m.",
         "qiymet": "750 AZN",
-        "image": [],
+        "image": [ "sekil13.jpg", "sekil14.jpg", "sekil15.jpg", "sekil16.jpg"],
         "vasiteci": {
             "ad": "Hüseyn",
             "nov": "mülkiyyətçi",
@@ -77,7 +77,7 @@
         "temir": "var",
         "ünvan": "Səbail r. ",
         "qiymet": "70AZN/gün",
-        "image": [],
+        "image": [  "sekil17.jpg", "sekil18.jpg", "sekil19.jpg", "sekil20.jpg"],
         "vasiteci": {
             "ad": "Apartment for rent",
             "nov": "agent",
@@ -94,7 +94,7 @@
         "temir": "var",
         "ünvan": "Nəsimi r.",
         "qiymet": "60AZN/gün",
-        "image": [],
+        "image": [ "sekil21.jpg", "sekil22.jpg", "sekil23.jpg", "sekil24.jpg"],
         "vasiteci": {
             "ad": "Gulya",
             "nov": "mülkiyyətçi",
@@ -111,7 +111,7 @@
         "temir": "var",
         "ünvan": "8 Noyabr m.",
         "qiymet": "1 650AZN/gün",
-        "image": [],
+        "image": [  "sekil25.jpg", "sekil26.jpg", "sekil27.jpg", "sekil28.jpg"],
         "vasiteci": {
             "ad": "Natiq Ədilov",
             "nov": "agent",
@@ -128,7 +128,7 @@
         "temir": "var",
         "ünvan": " Nəriman Nərimanov m.",
         "qiymet": "850AZN/gün",
-        "image": [],
+        "image": [ "sekil29.jpg", "sekil30.jpg", "sekil31.jpg", "sekil32.jpg"],
         "vasiteci": {
             "ad": "Tural T.",
             "nov": "agent",
@@ -145,7 +145,7 @@
         "temir": "var",
         "ünvan": " Azadlıq Prospekti m.",
         "qiymet": "700AZN/gün",
-        "image": [],
+        "image": [ "sekil33.jpg", "sekil34.jpg", "sekil35.jpg", "sekil36.jpg"],
         "vasiteci": {
             "ad": "Elan sahibi",
             "nov": "mülkiyyətçi",
@@ -162,7 +162,7 @@
         "temir": "var",
         "ünvan": " Nardaran q.",
         "qiymet": "1 050AZN/gün",
-        "image": [],
+        "image": [  "sekil37.jpg", "sekil38.jpg", "sekil39.jpg", "sekil40.jpg"],
         "vasiteci": {
             "ad": "Kamran",
             "nov": "mülkiyyətçi",
@@ -179,7 +179,7 @@
         "temir": "var",
         "ünvan": "20 Yanvar m.",
         "qiymet": "1 000AZN/gün",
-        "image": [],
+        "image": [  "sekil41.jpg", "sekil42.jpg", "sekil43.jpg", "sekil44.jpg"],
         "vasiteci": {
             "ad": "Məhəmməd bəy",
             "nov": "agent",
@@ -196,7 +196,7 @@
         "temir": "var",
         "ünvan": "28 May m.",
         "qiymet": "1 200AZN/gün",
-        "image": [],
+        "image": [ "sekil45.jpg", "sekil46.jpg", "sekil47.jpg", "sekil48.jpg"],
         "vasiteci": {
             "ad": "Rizvan Bəy",
             "nov": "agent",

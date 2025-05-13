@@ -9,7 +9,7 @@
         "temir": "var",
         "ünvan": " 8-ci mikrorayon q.",
         "qiymet": "270 000 AZN",
-        "image": [],
+        "image": ["sekil1.webp", "sekil2.webp", "sekil3.webp", "sekil4.webp"],
         "vasiteci": {
             "ad": "Раксана",
             "nov": "agent",
@@ -26,7 +26,7 @@
         "temir": "var",
         "ünvan": "20 Yanvar m.",
         "qiymet": "136 000 AZN",
-        "image": [],
+        "image": ["sekil5.webp", "sekil6.webp", "sekil7.webp", "sekil8.webp"],
         "vasiteci": {
             "ad": "Vəfa xanım.",
             "nov": "agent",
@@ -43,7 +43,7 @@
         "temir": "var",
         "ünvan": "Həzi Aslanov m.",
         "qiymet": "119 000 AZN",
-        "image": [],
+        "image": ["sekil13.webp", "sekil14.webp", "sekil15.webp", "sekil16.webp"],
         "vasiteci": {
             "ad": "Rövşən.",
             "nov": "mülkiyyətçi",
@@ -60,7 +60,7 @@
         "temir": "var",
         "ünvan": "Xətai r.",
         "qiymet": "165 000 AZN",
-        "image": [],
+        "image": ["sekil17.webp", "sekil18.webp", "sekil19.webp", "sekil20.webp"],
         "vasiteci": {
             "ad": "Xaliq.",
             "nov": "agent",
@@ -77,7 +77,7 @@
         "temir": "var",
         "ünvan": "Neftçilər m.",
         "qiymet": "95 000 AZN",
-        "image": [],
+         "image": ["sekil21.webp", "sekil22.webp", "sekil23.webp", "sekil24.webp"],
         "vasiteci": {
             "ad": "Anar",
             "nov": "agent",
@@ -94,7 +94,7 @@
         "temir": "yoxdur",
         "ünvan": "Azadlıq Prospekti m.",
         "qiymet": "155 000 AZN",
-        "image": [],
+         "image": ["sekil25.webp", "sekil26.webp", "sekil27.webp", "sekil28.webp"],
         "vasiteci": {
             "ad": "Fidan xanım",
             "nov": "agent",
@@ -111,7 +111,7 @@
         "temir": "var",
         "ünvan": "Yeni Yasamal q.",
         "qiymet": "200 000 AZN",
-        "image": [],
+         "image": ["sekil29.webp", "sekil30.webp", "sekil31.webp", "sekil32.webp"],
         "vasiteci": {
             "ad": "Sahib",
             "nov": "mülkiyyətçi",
@@ -128,7 +128,7 @@
         "temir": "var",
         "ünvan": "İnşaatçılar m.",
         "qiymet": "175 000 AZN",
-        "image": [],
+         "image": ["sekil33.webp", "sekil34.webp", "sekil35.webp", "sekil36.webp"],
         "vasiteci": {
             "ad": "Pərvin bəy",
             "nov": "agent",
@@ -145,7 +145,7 @@
         "temir": "var",
         "ünvan": "Nizami m.",
         "qiymet": "205 000 AZN",
-        "image": [],
+        "image": ["sekil37.webp", "sekil38.webp", "sekil39.webp", "sekil40.webp"],
         "vasiteci": {
             "ad": "Yaqub bəy",
             "nov": "agent",
@@ -162,7 +162,7 @@
         "temir": "var",
         "ünvan": "Yeni Günəşli q.",
         "qiymet": "107 000 AZN",
-        "image": [],
+        "image": ["sekil41.webp", "sekil42.webp", "sekil43.webp", "sekil44.webp"],
         "vasiteci": {
             "ad": "Yeni Günəşli Mtk",
             "nov": "agent",
@@ -179,28 +179,11 @@
         "temir": "var",
         "ünvan": " İçəri Şəhər m.",
         "qiymet": "350 000 AZN",
-        "image": [],
+        "image": ["sekil45.webp", "sekil46.webp", "sekil47.webp", "sekil48.webp"],
         "vasiteci": {
             "ad": "Daşınmaz əmlak",
             "nov": "agent",
             "elaqe": "(050) 620-62-62"
-        }
-    },
-    {
-        "kateqoriya": "Köhnə tikili",
-        "mertebe": "4 / 4",
-        "sahe": "75 m²",
-        "otaq_sayi": 3,
-        "cixarish": "var",
-        "ipoteka": "yoxdur",
-        "temir": "var",
-        "ünvan": "Sahil m.",
-        "qiymet": "260 000 AZN",
-        "image": [],
-        "vasiteci": {
-            "ad": "Daşınmaz əmlak",
-            "nov": "agent",
-            "elaqe": "(050) 355-89-99"
         }
     }
 ]

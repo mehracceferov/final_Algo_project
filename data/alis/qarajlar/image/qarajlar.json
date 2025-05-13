@@ -7,7 +7,7 @@
         "temir": "yoxdur",
         "ünvan": "Sahil m.",
         "qiymet": "40 000 AZN",
-        "image": [],
+        "image": ["sekil1.jpg", "sekil2.jpg", "sekil3.jpg", "sekil4.jpg"] ,
         "vasiteci": {
             "ad": "Elşad",
             "nov": "mülkiyyətçi",
@@ -22,7 +22,7 @@
         "temir": "yoxdur",
         "ünvan": "İçəri Şəhər m.",
         "qiymet": "58 000 AZN",
-        "image": [],
+        "image": ["sekil5.jpg", "sekil6.jpg", "sekil7.jpg", "sekil8.jpg"],
         "vasiteci": {
             "ad": "Nailə",
             "nov": "mülkiyyətçi",
@@ -37,7 +37,7 @@
         "temir": "yoxdur",
         "ünvan": " Qara Qarayev m.",
         "qiymet": "33 000 AZN",
-        "image": [],
+        "image": ["sekil9.jpg", "sekil10.jpg", "sekil11.jpg", "sekil12.jpg"],
         "vasiteci": {
             "ad": "Tamila",
             "nov": "mülkiyyətçi",
@@ -52,7 +52,7 @@
         "temir": "yoxdur",
         "ünvan": "8-ci mikrorayon q.",
         "qiymet": "65 000 AZN",
-        "image": [],
+        "image": ["sekil13.jpg", "sekil14.jpg", "sekil15.jpg", "sekil16.jpg"] ,
         "vasiteci": {
             "ad": "Aqil",
             "nov": "mülkiyyətçi",
@@ -67,7 +67,7 @@
         "temir": "yoxdur",
         "ünvan": " 20 Yanvar m.",
         "qiymet": "39 000 AZN",
-        "image": [],
+        "image": ["sekil17.jpg", "sekil18.jpg", "sekil19.jpg", "sekil20.jpg"],
         "vasiteci": {
             "ad": "Cəfər",
             "nov": "mülkiyyətçi",
@@ -82,7 +82,7 @@
         "temir": "yoxdur",
         "ünvan": " Nəriman Nərimanov m.",
         "qiymet": "20 000 AZN",
-        "image": [],
+        "image": ["sekil21.jpg", "sekil22.jpg", "sekil23.jpg", "sekil24.jpg"],
         "vasiteci": {
             "ad": "Fuad",
             "nov": "agent",
@@ -97,7 +97,7 @@
         "temir": "yoxdur",
         "ünvan": "Elmlər Akademiyası m.",
         "qiymet": "55 000 AZN",
-        "image": [],
+        "image": ["sekil25.jpg", "sekil26.jpg", "sekil27.jpg", "sekil28.jpg"],
         "vasiteci": {
             "ad": "Ələmdar",
             "nov": "agent",
@@ -112,7 +112,7 @@
         "temir": "yoxdur",
         "ünvan": " Ağ şəhər q.",
         "qiymet": "38 000 AZN",
-        "image": [],
+        "image": ["sekil29.jpg", "sekil30.jpg", "sekil31.jpg", "sekil32.jpg"],
         "vasiteci": {
             "ad": "Tural T.",
             "nov": "agent",
@@ -127,7 +127,7 @@
         "temir": "yoxdur",
         "ünvan": "  Qara Qarayev m.",
         "qiymet": "33 000 AZN",
-        "image": [],
+        "image": ["sekil33.jpg", "sekil34.jpg", "sekil35.jpg", "sekil36.jpg"],
         "vasiteci": {
             "ad": "Tamila",
             "nov": "mülkiyyətçi",
@@ -142,7 +142,7 @@
         "temir": "yoxdur",
         "ünvan": "İnşaatçılar m.",
         "qiymet": "22 000 AZN",
-        "image": [],
+        "image": ["sekil37.jpg", "sekil38.jpg", "sekil39.jpg", "sekil40.jpg"],
         "vasiteci": {
             "ad": "Kənan",
             "nov": "mülkiyyətçi",
@@ -157,7 +157,7 @@
         "temir": "yoxdur",
         "ünvan": "İçəri Şəhər m.",
         "qiymet": "58 000 AZN",
-        "image": [],
+         "image": ["sekil41.jpg", "sekil42.jpg", "sekil43.jpg", "sekil44.jpg"] ,
         "vasiteci": {
             "ad": "Nailə",
             "nov": "mülkiyyətçi",
@@ -172,7 +172,7 @@
         "temir": "yoxdur",
         "ünvan": "Nəriman Nərimanov m.",
         "qiymet": "27 500 AZN",
-        "image": [],
+         "image": ["sekil45.jpg", "sekil46.jpg", "sekil47.jpg", "sekil48.jpg"] ,
         "vasiteci": {
             "ad": "Ceyhun",
             "nov": "mülkiyyətçi",

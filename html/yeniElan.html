@@ -1,0 +1,424 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yeni elan yerlesdir - bina.az</title>
+    <link rel="stylesheet" href="../css/yeniElan.css">
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <img src="/images/binaaz.svg">
+            </div>
+            <div class="left-navbar">
+                <ul>
+                    <li><a href="#">alqi</a></li>
+                    <li><a href="#">satqi</a></li>
+                    <li><a href="#">kiraye</a></li>
+                    <li><a href="#">ipoteka</a></li>
+                    <li><a href="#">komek</a></li>
+                    <li><a href="#">daxil olun</a></li>
+                </ul>
+            </div>
+
+            <div class="sign">
+                <button class="sign1">
+                    Yeni elan
+                </button>
+                <button class="sign2">
+                    Giris
+                </button>
+            </div>
+
+        </header>
+
+        <section class="main-sec">
+            <h1>Yeni Elan</h1>
+            <div class="indent-container">
+                <div class="right-column">
+                    <div class="rules">
+                        <div class="title">Qaydalar</div>
+                        <ul>
+                            <li>Bir ay ərzində eyni nömrədən 1 pulsuz (təkrar olmayan) elan yerləşdirmək olar. Elanı
+                                başqa bir elanla əvəz etmək qadağandır. Saytda artıq mövcud olan daşınmaz əmlakın
+                                təkrarən yerləşdirilməsi yalnız ödənişli əsaslarla mümkündür. Bununla belə, bir
+                                istifadəçi eyni daşınmaz əmlak obyektini yalnız bir dəfə yerləşdirə bilər.</li>
+                            <li>Əgər siz 1 ay ərzində 2 və daha artıq elan yerləşdirmək istəsəniz, hər növbəti elanın
+                                qiyməti - 6 AZN olacaq.</li>
+                            <li>Elanlar vaxtından əvvəl silinsə də, nömrə üçün nəzərdə tutulmuş ödənişsiz yer, elan dərc
+                                ediləndən 30 gün sonra bərpa edilir.</li>
+                            <li>bina.az saytında istifadə etdiyiniz ödənişli xidmətlər üçün nəzərdə tutulan məbləğ geri
+                                qaytarılmır.</li>
+                            <li>Zəhmət olmasa elanı yerləşdirən zaman əlaqə vasitələrini (telefon nömrəsi, e-mail
+                                ünvanını) düzgün qeyd edin. Telefon nömrəsi ilə bağlı heç bir dəyişiklik həyata
+                                keçirilmir.</li>
+                            <li>Elanınızla bağlı bütün məlumatlar sizin e-mail ünvanınıza göndərilir.</li>
+                            <li>Əmlakın təsvirində məlumatları böyük hərflərlə yazmaq, həmçinin telefon nömrəsi, e-mail
+                                ünvanı və şirkət haqqında xidmətləri yazmaq qadağandır.</li>
+                            <li>Əmlakın fasad (günorta vaxtı çəkilmiş) və otaq şəkilləri mütləq olmalıdır.</li>
+                            <li>Üzərində bina.az saytı da daxil olmaqla digər saytların loqotipləri olan şəkillər qəbul
+                                edilməyəcək.</li>
+                            <li>Qiymət tam qeyd edilməlidir. (Qiyməti ilkin ödəniş və ya 1 sot, 1 m² üçün yazmaq olmaz)
+                            </li>
+                            <li>Ünvanı xəritədə dəqiq göstərməyiniz vacibdir.</li>
+                            <li>Fərqli vasitəçi və şirkətlər eyni elanı ödənişli yerləşdirə bilərlər.</li>
+                        </ul>
+                    </div>
+                </div>
+                <form class="simple_form ad-form js-new-ad-form" id="new_item"
+                    data-auth-url="https://hello.bina.az/?return_to=aHR0cHM6Ly9iaW5hLmF6L2l0ZW1zL25ldw=="
+                    autocomplete="off" novalidate="novalidate" action="/items" accept-charset="UTF-8" method="post">
+                    <input type="hidden" name="authenticity_token"
+                        value="ncZoQ064U-R8ZkzwzcBIXXVGnv0mO0emVsMa-ohatkkL7zmqHfv3YqX44aA0dnMraWAionAHOVE-ikhHnN1p2g"
+                        autocomplete="off">
+                    <script
+                        type="text/javascript">var categoryRequiredPhotoCounts = { "1": 4, "2": 4, "3": 4, "5": 4, "7": 3, "8": 1, "9": 1, "10": 3 }</script>
+                    <fieldset style="border: none;">
+                        <div class="formself">
+                            <div class="input"><label class="required" for="item_leased">Mən</label> <select
+                                    class="category select" name="item[category_id]" id="item_category_id">
+                                    <option value="" label=" "></option>
+                                    <option disabled="disabled" value="1">mənzil</option>
+                                    <option value="2">— yeni tikili</option>
+                                    <option value="3">— köhnə tikili</option>
+                                    <option value="5">həyət evi/bağ evi</option>
+                                    <option value="7">ofis</option>
+                                    <option value="8">qaraj</option>
+                                    <option value="9">torpaq</option>
+                                    <option value="10">obyekt</option>
+                                </select> <select class="select optional form-control" name="item[leased]"
+                                    id="item_leased">
+                                    <option value="" label=" "></option>
+                                    <option value="false">satıram</option>
+                                    <option value="true">kirayə verirəm</option>
+                                </select></div>
+                            <div class="input select required item_city"><label class="select required form-label"
+                                    for="item_city_id">Şəhər</label><select data-id="city"
+                                    class="select required form-control" name="item[city_id]" id="item_city_id">
+                                    <option value="85">Ağcabədi</option>
+                                    <option value="84">Ağdam</option>
+                                    <option value="23">Ağdaş</option>
+                                    <option value="90">Ağdərə</option>
+                                    <option value="30">Ağstafa</option>
+                                    <option value="75">Ağsu</option>
+                                    <option value="11">Astara</option>
+                                    <option selected="selected" value="1">Bakı</option>
+                                    <option value="76">Balakən</option>
+                                    <option value="17">Beyləqan</option>
+                                    <option value="18">Bərdə</option>
+                                    <option value="13">Biləsuvar</option>
+                                    <option value="92">Cəbrayıl</option>
+                                    <option value="9">Cəlilabad</option>
+                                    <option value="89">Daşkəsən</option>
+                                    <option value="86">Füzuli</option>
+                                    <option value="83">Gədəbəy</option>
+                                    <option value="2">Gəncə</option>
+                                    <option value="74">Goranboy</option>
+                                    <option value="22">Göyçay</option>
+                                    <option value="87">Göygöl</option>
+                                    <option value="12">Göytəpə</option>
+                                    <option value="35">Hacıqabul</option>
+                                    <option value="26">Xaçmaz</option>
+                                    <option value="98">Xankəndi</option>
+                                    <option value="34">Xırdalan</option>
+                                    <option value="41">Xızı</option>
+                                    <option value="100">Xocalı</option>
+                                    <option value="99">Xocavənd</option>
+                                    <option value="31">Xudat</option>
+                                    <option value="10">İmişli</option>
+                                    <option value="38">İsmayıllı</option>
+                                    <option value="94">Kəlbəcər</option>
+                                    <option value="77">Kürdəmir</option>
+                                    <option value="33">Qax</option>
+                                    <option value="79">Qazax</option>
+                                    <option value="39">Qəbələ</option>
+                                    <option value="129">Qobustan</option>
+                                    <option value="24">Quba</option>
+                                    <option value="95">Qubadlı</option>
+                                    <option value="25">Qusar</option>
+                                    <option value="96">Laçın</option>
+                                    <option value="82">Lerik</option>
+                                    <option value="8">Lənkəran</option>
+                                    <option value="37">Masallı</option>
+                                    <option value="20">Mingəçevir</option>
+                                    <option value="81">Naftalan</option>
+                                    <option value="130">Naxçıvan</option>
+                                    <option value="80">Naxçıvan MR</option>
+                                    <option value="7">Neftçala</option>
+                                    <option value="36">Oğuz</option>
+                                    <option value="14">Saatlı</option>
+                                    <option value="15">Sabirabad</option>
+                                    <option value="6">Salyan</option>
+                                    <option value="97">Samux</option>
+                                    <option value="27">Siyəzən</option>
+                                    <option value="3">Sumqayıt</option>
+                                    <option value="28">Şabran</option>
+                                    <option value="16">Şamaxı</option>
+                                    <option value="19">Şəki</option>
+                                    <option value="4">Şəmkir</option>
+                                    <option value="5">Şirvan</option>
+                                    <option value="101">Şuşa</option>
+                                    <option value="88">Tərtər</option>
+                                    <option value="29">Tovuz</option>
+                                    <option value="78">Ucar</option>
+                                    <option value="102">Yardımlı</option>
+                                    <option value="21">Yevlax</option>
+                                    <option value="32">Zaqatala</option>
+                                    <option value="93">Zəngilan</option>
+                                    <option value="40">Zərdab </option>
+                                </select></div>
+                            <div data-toggle-values="[7]" data-toggled-by-field="#item_category_id"
+                                class="input string required item_building_type field_with_hint" style="display: none;">
+                                <label class="string required form-label" for="item_building_type">Binanın növü</label>
+                                <div class="building-types"><input type="radio" value="business_center"
+                                        name="item[building_type]" id="item_building_type_business_center" disabled="">
+                                    Biznes mərkəzi<br><input type="radio" value="apartment" name="item[building_type]"
+                                        id="item_building_type_apartment" disabled=""> Ev / Mənzil<br><input
+                                        type="radio" value="villa" name="item[building_type]"
+                                        id="item_building_type_villa" disabled=""> Villa<br></div><span
+                                    class="hint">Ofisin yerləşdiyi binanın növünü seçin</span>
+                            </div>
+                            <div data-toggle-values="[1,2,3,7]" data-toggled-by-field="#item_category_id"
+                                class="input select required item_rooms" style="display: none;"><label
+                                    class="select required form-label" for="item_rooms">Otaq sayı</label><select
+                                    class="select required form-control" required="required" aria-required="true"
+                                    name="item[rooms]" id="item_rooms" disabled="">
+                                    <option value="" label=" "></option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                    <option value="13">13</option>
+                                    <option value="14">14</option>
+                                    <option value="15">15</option>
+                                    <option value="16">16</option>
+                                    <option value="17">17</option>
+                                    <option value="18">18</option>
+                                    <option value="19">19</option>
+                                    <option value="20">20</option>
+                                </select></div>
+                            <div data-toggle-values="[5]" data-toggled-by-field="#item_category_id"
+                                class="input select optional item_rooms" style="display: none;"><label
+                                    class="select optional form-label" for="item_rooms">Otaq sayı</label><select
+                                    class="select optional form-control" name="item[rooms]" id="item_rooms" disabled="">
+                                    <option value="" label=" "></option>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10">10</option>
+                                    <option value="11">11</option>
+                                    <option value="12">12</option>
+                                    <option value="13">13</option>
+                                    <option value="14">14</option>
+                                    <option value="15">15</option>
+                                    <option value="16">16</option>
+                                    <option value="17">17</option>
+                                    <option value="18">18</option>
+                                    <option value="19">19</option>
+                                    <option value="20">20</option>
+                                </select></div>
+                            <div class="input float required item_area"><label class="float required form-label"
+                                    for="item_area">Sahə</label><input
+                                    class="string required form-control js-square-validate" maxlength="9" size="9"
+                                    type="text" name="item[area]" id="item_area"> <span
+                                    data-toggle-values="[1,2,3,5,7,8,10]"
+                                    data-toggled-by-field=".input .category, .js-search-form-category"
+                                    style="display: none;">m²</span><span data-toggle-values="[9]"
+                                    data-toggled-by-field=".input .category, .js-search-form-category"
+                                    style="display: none;">sot</span></div>
+                            <div data-toggle-values="[5]" data-toggled-by-field="#item_category_id"
+                                class="input float required item_land_area" style="display: none;"><label
+                                    class="float required form-label" for="item_land_area">Torpaq sahəsi</label><input
+                                    class="string optional form-control js-square-validate" maxlength="9" size="9"
+                                    type="text" name="item[land_area]" id="item_land_area" disabled=""> sot</div>
+                            <div data-toggle-values="[2,3]" data-toggled-by-field="#item_category_id"
+                                class="input string required item_floor" style="display: none;"><label
+                                    class="string required form-label" for="item_floor">Mərtəbə</label><input
+                                    class="string required form-control" required="required" aria-required="true"
+                                    type="text" name="item[floor]" id="item_floor" disabled=""></div>
+                            <div data-toggle-values="[2,3]" data-toggled-by-field="#item_category_id"
+                                class="input string required item_floors" style="display: none;"><label
+                                    class="string required form-label" for="item_floors">Mərtəbələrin sayı</label><input
+                                    class="string required form-control" required="required" aria-required="true"
+                                    type="text" name="item[floors]" id="item_floors" disabled=""></div>
+                            <div class="input text optional item_description"><label class="text optional form-label"
+                                    for="item_description">Əlavə məlumat</label><textarea rows="10"
+                                    data-maxlength="3000" class="text optional form-control js-characters-limit"
+                                    name="item[description]" id="item_description"></textarea>
+                              
+                            </div>
+                            <div class="input integer required item_price"><label class="integer required form-label"
+                                    for="item_price">Qiymət</label><input class="string required form-control"
+                                    maxlength="9" size="9" type="text" name="item[price]" id="item_price"> AZN<select
+                                    include_blank="false" data-toggle-value="true" data-toggled-by-field="#item_leased"
+                                    class="select optional form-control" name="item[paid_daily]" id="item_paid_daily"
+                                    disabled="" style="display: none;">
+                                    <option value="true">gündə</option>
+                                    <option value="false">ayda</option>
+                                </select></div>
+                            <div data-toggle-values="[1,2,3,5,7,10]" data-toggled-by-field="#item_category_id"
+                                class="input select optional item_has_repair" style="display: none;"><label
+                                    class="select optional form-label" for="item_has_repair">Təmir</label><select
+                                    class="select optional form-control" name="item[has_repair]" id="item_has_repair"
+                                    disabled="">
+                                    <option value="" label=" "></option>
+                                    <option value="true">Təmirli</option>
+                                    <option value="false">Təmirsiz</option>
+                                </select></div>
+                            <div class="input boolean optional item_has_bill_of_sale" style="display: none;"><input
+                                    value="0" autocomplete="off" type="hidden" name="item[has_bill_of_sale]"><label
+                                    class="boolean optional form-label checkbox" for="item_has_bill_of_sale"><input
+                                        class="boolean optional form-control" type="checkbox" value="1"
+                                        name="item[has_bill_of_sale]" id="item_has_bill_of_sale" disabled="">Çıxarış
+                                    var</label></div>
+                            <div class="input boolean optional item_has_mortgage" style="display: none;"><input
+                                    value="0" autocomplete="off" type="hidden" name="item[has_mortgage]"><label
+                                    class="boolean optional form-label checkbox" for="item_has_mortgage"><input
+                                        class="boolean optional form-control" type="checkbox" value="1"
+                                        name="item[has_mortgage]" id="item_has_mortgage" disabled="">İpoteka var</label>
+                            </div>
+                            <div id="item_location_groups">
+                                <div class="input"><label class="required"
+                                        for="item_location_group_2">Rayon</label><select name="item[location_ids][]"
+                                        id="location_group_2" class="select" data-id="location_group_2"
+                                        data-parent-id="city">
+                                        <option value=""></option>
+                                        <option data-parent-id="1" value="197">Abşeron</option>
+                                        <option data-parent-id="1" value="58">Binəqədi</option>
+                                        <option data-parent-id="1" value="16">Xətai</option>
+                                        <option data-parent-id="1" value="15">Xəzər</option>
+                                        <option data-parent-id="1" value="57">Qaradağ</option>
+                                        <option data-parent-id="1" value="10">Nərimanov</option>
+                                        <option data-parent-id="1" value="190">Nəsimi</option>
+                                        <option data-parent-id="1" value="11">Nizami</option>
+                                        <option data-parent-id="1" value="249">Pirallahı</option>
+                                        <option data-parent-id="1" value="13">Sabunçu</option>
+                                        <option data-parent-id="1" value="12">Səbail</option>
+                                        <option data-parent-id="1" value="14">Suraxanı</option>
+                                        <option data-parent-id="1" value="56">Yasamal</option>
+                                    </select></div>
+                                <div class="input"><label class="required"
+                                        for="item_location_group_3">Qəsəbə</label><select name="item[location_ids][]"
+                                        id="location_group_3" class="select" data-parent-id="location_group_2">
+                                        <option value=""></option>
+                                        <option data-parent-id="" value="346">Xalxal k.</option>
+                                    </select></div>
+                            </div>
+                            <div class="input js-form-row-hidden is-hidden"><label class="required"
+                                    for="item_">Xəritə</label><input autocomplete="off" type="hidden" name="item[lat]"
+                                    id="item_lat"><input autocomplete="off" type="hidden" name="item[lng]"
+                                    id="item_lng"><input name="item[geomarker_ids][]" class="js-geomarker-ids" value=""
+                                    autocomplete="off" type="hidden" id="item_geomarker_ids">
+                                <div class="map show-map bz-d-flex bz-align-center bz-justify-center"
+                                    data-dismiss-modal-class="close-reveal-modal, .reveal-modal .close"
+                                    data-reveal-id="show_map">
+                                    <div class="map__overlay"></div>
+                                    <div class="map__description bz-d-flex bz-align-center bz-justify-center bz-gap-10">
+                                        Ünvanı xəritədə göstərmək</div>
+                                </div>
+                            </div>
+                            <div class="landmarks js-landmarks">
+                                <div class="landmarks__title">Ünvana ən yaxın metro və nişangahlar</div>
+                                <ul class="landmarks-list"></ul>
+                            </div>
+                            <div class="js-form-row-hidden is-hidden">
+                                <div class="input string required item_address field_with_hint"><label
+                                        class="string required form-label" for="item_address">Ünvan</label><input
+                                        maxlength="255" class="string required form-control" size="25" type="text"
+                                        name="item[address]" id="item_address"><span class="hint">Dəqiq ünvanı göstərin
+                                        (küçə, evin nömrəsi)</span></div>
+                            </div>
+                            <div class="input pond pond-grid" data-endpoint="https://photos.bina.az/pond?lang=az"
+                                data-name="gallery[photo_ids][]" data-target-format=""><label for=""
+                                    class="string optional form-label">Şəkillər</label>
+                                <div class="pond-inner"><input accept="image/*" class="pond-new-img-field" multiple=""
+                                        name="images[]" type="file"><label class="pond-new-img-button pond-new-img"
+                                        for="pond_input">Şəkil əlavə etmək</label>
+                                    <div class="pond-message"></div>
+                                    <div class="pond-img-list ui-sortable"></div>
+                                </div>
+                                <script id="pond_img_template"
+                                    type="text/html"><div class="pond-img"><div class="pond-img-thumb-container"></div><div class="pond-img-actions"><a class="pond-img-delete" href="#" title="Silmək"></a></div></div></script>
+                            </div>
+                            <ul class="photo-rules">
+                                <li>Şəkillərin minimal sayı — <span class="category-photos-count">4</span> ədəd</li>
+                                <li>Binanın birinci mərtəbədən başlamaqla tam şəklinin olması mütləqdir</li>
+                                <li>Şəkillərin optimal ölçüləri — 800 x 600 pikseldir</li>
+                            </ul>
+                            <div class="contact-blk js-contacts-blk"><input type="hidden" name="access_token"
+                                    id="access_token" autocomplete="off">
+                                <div class="input hidden item_uuid"><input class="hidden form-control"
+                                        autocomplete="off" type="hidden" value="b1a7f081-617f-443a-a0f9-119a6be2aeed"
+                                        name="item[uuid]" id="item_uuid"></div>
+                                <div class="input string required item_contact"><label
+                                        class="string required form-label" for="item_contact">Adınız</label><input
+                                        class="string required form-control" type="text" name="item[contact]"
+                                        id="item_contact"></div>
+                                <div class="input ownership"><label><input type="radio" value="owner"
+                                            name="item[ownership]" id="item_ownership_owner"> Öz elanımı
+                                        yerləşdirirəm</label><label><input type="radio" value="agent"
+                                            name="item[ownership]" id="item_ownership_agent"> Mən vasitəçiyəm
+                                        (agent)</label></div>
+                                <div class="input email required item_email"><label class="email required form-label"
+                                        for="item_email">E-mail</label><input autocomplete="none"
+                                        class="string email required form-control" placeholder="saytda göstərilmir"
+                                        type="email" name="item[email]" id="item_email"></div>
+                            </div>
+                            <div class="input"><label class="string required form-label"
+                                    for="item_phones_separated">Telefon</label><input autocomplete="none"
+                                    placeholder="(___) ___-__-__" class="string js-phone-validate" type="text" value=""
+                                    name="item[phones_separated]" id="item_phones_separated">
+                                <div></div>
+                                <div class="authorization-hint hidden js-authorization-hint">Nömrə SMS-kod ilə
+                                    təsdiqləndikdən sonra bu elan yoxlamaya göndəriləcək və kabinetdə göstəriləcək.
+                                </div>
+                            </div>
+                            <div class="formself__bottom">
+                                <div class="confirm-rules">Elan yerləşdirərək, Siz <a target="_blank"
+                                        href="/pages/terms-and-conditions">bina.az-ın İstifadəçi razılaşması</a> ilə
+                                    razı olduğunuzu təsdiq edirsiniz.</div>
+                                <div class="button"><button class="btn" data-disable-with="Göndərilir..."
+                                        type="submit">Davam etmək</button><span class="disable_message">Şəkillər
+                                        yüklənir. Xahiş edirik gözləyin.</span></div>
+                            </div>
+                        </div>
+                    </fieldset>
+                    <div class="reveal-modal" id="show_map">
+                        <div class="reveal-content">
+                            <script async="async"
+                                src="//maps.google.com/maps/api/js?callback=gmapsReady&amp;key=AIzaSyD4A8kkhGRWPOupdTregGTRaw87puufHz8&amp;language=az&amp;libraries=geometry"
+                                defer="defer" type="text/javascript"></script>
+                            <div id="item_map"></div>
+                            <p><button name="button" type="button" class="close">Yadda saxla</button></p>
+                        </div><span class="close-reveal-modal">×</span>
+                    </div>
+                    <script
+                        type="text/javascript"> window.cities = { "85": { "lat": 40.048336, "lng": 47.456447, "id": 85 }, "84": { "lat": 39.990314, "lng": 46.92913, "id": 84 }, "23": { "lat": 40.645545, "lng": 47.471842, "id": 23 }, "90": { "lat": 40.211359, "lng": 46.821225, "id": 90 }, "30": { "lat": 41.11695, "lng": 45.448031, "id": 30 }, "75": { "lat": 40.573469, "lng": 48.39117, "id": 75 }, "11": { "lat": 38.471499, "lng": 48.872723, "id": 11 }, "1": { "lat": 40.39258071969131, "lng": 49.84222412109375, "id": 1 }, "76": { "lat": 41.729, "lng": 46.403, "id": 76 }, "17": { "lat": 39.773164, "lng": 47.615958, "id": 17 }, "18": { "lat": 40.3708506, "lng": 47.12700480000001, "id": 18 }, "13": { "lat": 39.4539594, "lng": 48.54731749999996, "id": 13 }, "92": { "lat": 39.39829, "lng": 47.027674, "id": 92 }, "9": { "lat": 39.215955, "lng": 48.512092, "id": 9 }, "89": { "lat": 40.52016, "lng": 46.077218, "id": 89 }, "86": { "lat": 39.603556, "lng": 47.15047, "id": 86 }, "83": { "lat": 40.571939, "lng": 45.810396, "id": 83 }, "2": { "lat": 40.6848132, "lng": 46.35917659999996, "id": 2 }, "74": { "lat": 40.604, "lng": 46.784, "id": 74 }, "22": { "lat": 40.6447177, "lng": 47.72248330000002, "id": 22 }, "87": { "lat": 40.587489, "lng": 46.33122, "id": 87 }, "12": { "lat": 39.1214527, "lng": 48.59458500000005, "id": 12 }, "35": { "lat": 40.043953, "lng": 48.933681, "id": 35 }, "26": { "lat": 41.458115, "lng": 48.80385, "id": 26 }, "98": { "lat": 39.823566, "lng": 46.759748, "id": 98 }, "34": { "lat": 40.45511190000001, "lng": 49.74459389999993, "id": 34 }, "41": { "lat": 40.911348, "lng": 49.071751, "id": 41 }, "100": { "lat": 39.9126792, "lng": 46.7931189, "id": 100 }, "99": { "lat": 39.7927157, "lng": 47.1102581, "id": 99 }, "31": { "lat": 41.6269965, "lng": 48.67070669999998, "id": 31 }, "10": { "lat": 39.869634, "lng": 48.063319, "id": 10 }, "38": { "lat": 40.787814, "lng": 48.149415, "id": 38 }, "94": { "lat": 40.106864, "lng": 46.037218, "id": 94 }, "77": { "lat": 40.344664, "lng": 48.152052, "id": 77 }, "33": { "lat": 41.42254030000001, "lng": 46.92360170000006, "id": 33 }, "79": { "lat": 41.095311, "lng": 45.35296, "id": 79 }, "39": { "lat": 40.97873171339861, "lng": 47.85163879394531, "id": 39 }, "129": { "lat": 40.531854, "lng": 48.931005, "id": 129 }, "24": { "lat": 41.36482, "lng": 48.523269, "id": 24 }, "95": { "lat": 39.345948, "lng": 46.579, "id": 95 }, "25": { "lat": 41.427512, "lng": 48.432786, "id": 25 }, "96": { "lat": 39.639703, "lng": 46.546684, "id": 96 }, "82": { "lat": 38.77439407284587, "lng": 48.41631887064667, "id": 82 }, "8": { "lat": 38.7633369, "lng": 48.85091680000005, "id": 8 }, "37": { "lat": 39.031904, "lng": 48.6644943, "id": 37 }, "20": { "lat": 40.761, "lng": 47.052, "id": 20 }, "81": { "lat": 40.507533, "lng": 46.823486, "id": 81 }, "130": { "lat": 39.202628, "lng": 45.408052, "id": 130 }, "80": { "lat": 39.200913, "lng": 45.408227, "id": 80 }, "7": { "lat": 39.3707094, "lng": 49.25365899999997, "id": 7 }, "36": { "lat": 41.070685, "lng": 47.464354, "id": 36 }, "14": { "lat": 39.9306664, "lng": 48.3616356, "id": 14 }, "15": { "lat": 40.0066551, "lng": 48.47363150000001, "id": 15 }, "6": { "lat": 39.5853623, "lng": 48.97272520000001, "id": 6 }, "97": { "lat": 40.7598907, "lng": 46.4069228, "id": 97 }, "27": { "lat": 41.0726252, "lng": 49.11526460000005, "id": 27 }, "3": { "lat": 40.589694, "lng": 49.66787920000002, "id": 3 }, "28": { "lat": 41.2022535, "lng": 48.98068520000004, "id": 28 }, "16": { "lat": 40.6278251, "lng": 48.63632189999998, "id": 16 }, "19": { "lat": 41.1891296, "lng": 47.16101170000002, "id": 19 }, "4": { "lat": 40.851607, "lng": 46.03606339999999, "id": 4 }, "5": { "lat": 39.9334896, "lng": 48.91633449999995, "id": 5 }, "101": { "lat": 39.7586443, "lng": 46.7423348, "id": 101 }, "88": { "lat": 40.34533, "lng": 46.936684, "id": 88 }, "29": { "lat": 41.004289, "lng": 45.66051909999999, "id": 29 }, "78": { "lat": 40.510316, "lng": 47.652146, "id": 78 }, "102": { "lat": 38.8947798, "lng": 48.2623462, "id": 102 }, "21": { "lat": 40.6040303, "lng": 47.11553920000006, "id": 21 }, "32": { "lat": 41.6279772, "lng": 46.64481809999995, "id": 32 }, "93": { "lat": 39.067574, "lng": 46.645433, "id": 93 }, "40": { "lat": 40.2605127, "lng": 47.70187669999996, "id": 40 } }</script>
+                    <script id="item_static_map_template"
+                        type="text/html"><img alt="Map" src="//bina.azstatic.com/maps/api/staticmap?key=AIzaSyDaiHku1WcLL2yPbPa0TINgj8i2gmKrUQI&language=az&maptype=roadmap&markers=LAT%2CLNG&size=345x120&zoom=14" width="345" height="120" /></script>
+                </form>
+            </div>
+    </div>
+    </section>
+    </div>
+</body>
+
+</html>

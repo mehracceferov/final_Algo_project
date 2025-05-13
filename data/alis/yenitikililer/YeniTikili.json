@@ -9,7 +9,7 @@
       "temir": "yoxdur",
       "ünvan": "8 Noyabr m.",
       "qiymet": "137 865 AZN",
-      "image": [],
+      "image": ["sekil1.webp", "sekil2.webp", "sekil3.webp", "sekil4.webp"],
       "vasiteci": {
         "ad": "Diana",
         "nov": "agent",
@@ -26,7 +26,7 @@
       "temir": "var",
       "ünvan": " Nardaran q.",
       "qiymet": "244 664 AZN",
-      "image": [],
+      "image": ["sekil5.webp", "sekil6.webp", "sekil7.webp", "sekil8.webp"],
       "vasiteci": {
         "ad": "Sea Breeze Prime Residence",
         "nov": "agent",
@@ -45,7 +45,7 @@
 "temir": "yoxdur",
 "ünvan": "  Ağ şəhər q.",
 "qiymet": "212 000 AZN",
-"image": [],
+"image": ["sekil9.webp", "sekil10.webp", "sekil11.webp", "sekil12.webp"],
 "vasiteci": {
 "ad": "Miya",
 "nov": "mülkiyyətçi",
@@ -62,7 +62,7 @@
     "temir": "yoxdur",
     "ünvan": "  Nəsimi r.",
     "qiymet": "209 000 AZN",
-    "image": [],
+    "image": ["sekil13.webp", "sekil14.webp", "sekil15.webp", "sekil16.webp"],
     "vasiteci": {
     "ad": "Koroğlu Residence",
     "nov": "Yasayiy kompleksi",
@@ -79,7 +79,7 @@
         "temir": "yoxdur",
         "ünvan": "Nardaran q.",
         "qiymet": "185 000 AZN",
-        "image": [],
+        "image": ["sekil17.webp", "sekil18.webp", "sekil19.webp", "sekil20.webp"],
         "vasiteci": {
         "ad": "Fərid",
         "nov": "agent",
@@ -96,7 +96,7 @@
           "temir": "var",
           "ünvan": "Nardaran q.",
           "qiymet": "405 000 AZN",
-          "image": [""],
+           "image": ["sekil21.webp", "sekil22.webp", "sekil23.webp", "sekil24.webp"],
           "vasiteci": {
           "ad": "Kamran ",
           "nov": "mülkiyyətçi",
@@ -113,7 +113,7 @@
             "temir": "yoxdur",
             "ünvan": " Nardaran q.",
             "qiymet": "214 000 AZN",
-            "image": [],
+            "image": ["sekil25.webp", "sekil26.webp", "sekil27.webp", "sekil28.webp"],
             "vasiteci": {
             "ad": "Tural  ",
             "nov": "mülkiyyətçi",
@@ -130,7 +130,7 @@
               "temir": "yoxdur",
               "ünvan": "Nəriman Nərimanov m.",
               "qiymet": "150 000 AZN",
-              "image": [],
+             "image": ["sekil29.webp", "sekil30.webp", "sekil31.webp", "sekil32.webp"],
               "vasiteci": {
               "ad": "Samir  ",
               "nov": "agent",
@@ -147,7 +147,7 @@
                 "temir": "var", 
                 "ünvan": "Ağ şəhər q.",
                 "qiymet": "260 000 AZN",
-                "image": [],
+                "image": ["sekil33.webp", "sekil34.webp", "sekil35.webp", "sekil36.webp"],
                 "vasiteci": {
                 "ad": "Rövşən Bəy ",
                 "nov": "agent",
@@ -164,7 +164,7 @@
                   "temir": "yoxdur", 
                   "ünvan": " Nardaran q.",
                   "qiymet": "196 000 AZN",
-                  "image": [],
+                  "image": ["sekil37.webp", "sekil38.webp", "sekil39.webp", "sekil40.webp"],
                   "vasiteci": {
                   "ad": "Sevda Nazarova" ,
                   "nov": "mülkiyyətçi",
@@ -181,7 +181,7 @@
                     "temir": "yoxdur", 
                     "ünvan": " Nardaran q.",
                     "qiymet": "196 000 AZN",
-                    "image": [],
+                    "image": ["sekil41.webp", "sekil42.webp", "sekil43.webp", "sekil44.webp"],
                     "vasiteci": {
                     "ad": "Sevda Nazarova" ,
                     "nov": "mülkiyyətçi",
@@ -198,7 +198,7 @@
                       "temir": "var", 
                       "ünvan": " 20 Yanvar m.",
                       "qiymet": "114 000 AZN",
-                      "image": [],
+                      "image": ["sekil45.webp", "sekil46.webp", "sekil47.webp", "sekil48.webp"],
                       "vasiteci": {
                       "ad": "Vaqif" ,
                       "nov": "agent",

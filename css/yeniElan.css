@@ -1,0 +1,174 @@
+*{
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.container{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
+button{
+    cursor: pointer;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.sign .sign1{
+    border:none;
+    border-radius: 12px;
+    width:100px ;
+    height: 30px;
+    background-color:#32914E ;
+    color:#fff;
+}
+.sign .sign2{
+ border:none;
+ border-radius: 12px;
+ width: 70px;
+ height: 30px;
+ background-color: #fff;
+ color:black;
+ box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+.row {
+    max-width: 1600px;
+    width: 100%;
+
+}
+
+header {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.left-navbar ul,.sign{
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+}
+
+.logo {
+    padding: 10px;
+}
+
+.left-navbar a,
+.right-navbar a {
+    transition: all 0.3s ease;
+}
+
+.left-navbar a:hover,
+.right-navbar a:hover {
+    color: #0041D9;
+}
+
+
+.main-sec{
+   
+        font-family: Arial, sans-serif;
+        color: #333;
+        background: #f3f3f3;
+        border-radius: 4px;
+        width: 60%;
+        border-bottom: 1px solid #999;
+    
+}
+
+.main-sec h1{
+    height: 34px;
+    line-height: 34px;
+    background: #999;
+    color: #fff;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
+    margin: 0;
+    text-align: center;
+    border-radius: 4px;
+}
+
+
+.indent-container {
+    padding: 20px 20px 0;
+}
+
+ label {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 10px;
+    position: relative;
+}
+
+
+#item_category_id{
+    width: 192px;
+    padding: 7px;
+    margin-left: 8px;
+    border-radius: 2px;
+}
+
+#item_leased{
+    width: 150px;
+    padding: 7px;
+}
+
+#item_city_id{
+    width: 346px;
+    height: 36px;
+}
+
+#item_area{
+    width: 106px;
+    height: 36px;
+    margin-left: 8px;
+}
+
+
+.item_description{
+    display: flex;
+    align-items: center;
+  
+}
+
+.item[address]{
+    width: 0px;
+}
+.item_description label{
+    margin: 0 10px;
+    vertical-align: middle;
+    display: inline-block;
+    float: none;
+}
+.item_description textarea{
+width: 330px;
+border: 1px solid #ccc;
+    padding: 8px;
+    margin: 0;
+    background: #fff;
+    font-size: 16px;
+}

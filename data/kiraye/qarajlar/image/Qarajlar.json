@@ -7,7 +7,7 @@
         "temir": "yoxdur",
         "ünvan": "  8 Noyabr m.",
         "qiymet": "600AZN/ay",
-        "image": [],
+        "image": [ "sekil1.jpg", "sekil2.jpg", "sekil3.jpg", "sekil4.jpg"],
         "vasiteci": {
           "ad": "Sadiq",
           "nov": "mülkiyyətçi",
@@ -22,7 +22,7 @@
         "temir": "yoxdur",
         "ünvan": "  Nəriman Nərimanov m.",
         "qiymet": "100AZN/ay",
-        "image": [],
+        "image": [ "sekil5.jpg", "sekil6.jpg", "sekil7.jpg", "sekil8.jpg"],
         "vasiteci": {
           "ad": "Elsaq",
           "nov": "mülkiyyətçi",
@@ -37,7 +37,7 @@
         "temir": "yoxdur",
         "ünvan": "   Elmlər Akademiyası m.",
         "qiymet": "70AZN/ay",
-        "image": [],
+        "image": ["sekil9.jpg", "sekil10.jpg", "sekil11.jpg", "sekil12.jpg"],
         "vasiteci": {
           "ad": "Anar",
           "nov": "agent",
@@ -52,7 +52,7 @@
         "temir": "yoxdur",
         "ünvan": "8 Noyabr m.",
         "qiymet": "150AZN/ay",
-        "image": [],
+        "image": [ "sekil13.jpg", "sekil14.jpg", "sekil15.jpg", "sekil16.jpg"],
         "vasiteci": {
           "ad": "Ramin",
           "nov": "mülkiyyətçi",
@@ -67,7 +67,7 @@
         "temir": "yoxdur",
         "ünvan": "Memar Əcəmi m.",
         "qiymet": "200AZN/ay",
-        "image": [],
+        "image": [  "sekil17.jpg", "sekil18.jpg", "sekil19.jpg", "sekil20.jpg"],
         "vasiteci": {
           "ad": "İlahə",
           "nov": "mülkiyyətçi",
@@ -82,7 +82,7 @@
         "temir": "yoxdur",
         "ünvan": "Əhmədli m.",
         "qiymet": "400AZN/ay",
-        "image": [],
+        "image": [ "sekil21.jpg", "sekil22.jpg", "sekil23.jpg", "sekil24.jpg"],
         "vasiteci": {
           "ad": "Kənan",
           "nov": "mülkiyyətçi",
@@ -97,7 +97,7 @@
         "temir": "yoxdur",
         "ünvan": "Yeni Günəşli q.",
         "qiymet": "200AZN/ay",
-        "image": [],
+        "image": [ "sekil25.jpg", "sekil26.jpg", "sekil27.jpg", "sekil28.jpg"],
         "vasiteci": {
           "ad": "Satici",
           "nov": "mülkiyyətçi",
@@ -112,7 +112,7 @@
         "temir": "yoxdur",
         "ünvan": " 8 Noyabr m.",
         "qiymet": "1 050AZN/ay",
-        "image": [],
+        "image": [ "sekil29.jpg", "sekil30.jpg", "sekil31.jpg", "sekil32.jpg"],
         "vasiteci": {
           "ad": "Tural",
           "nov": "mülkiyyətçi",
@@ -127,7 +127,7 @@
         "temir": "yoxdur",
         "ünvan": " 8 Noyabr m.",
         "qiymet": "800AZN/ay",
-        "image": [],
+        "image": [  "sekil33.jpg", "sekil34.jpg", "sekil35.jpg", "sekil36.jpg"],
         "vasiteci": {
           "ad": "Vusala A.",
           "nov": "mülkiyyətçi",
@@ -142,7 +142,7 @@
         "temir": "yoxdur",
         "ünvan": "Elmlər Akademiyası m.",
         "qiymet": "500AZN/ay",
-        "image": [],
+        "image": [  "sekil37.jpg", "sekil38.jpg", "sekil39.jpg", "sekil40.jpg"],
         "vasiteci": {
           "ad": "New Europe",
           "nov": "agent",
@@ -157,7 +157,7 @@
         "temir": "yoxdur",
         "ünvan": "Elmlər Akademiyası m.",
         "qiymet": "900AZN/ay",
-        "image": [],
+        "image": [ "sekil41.jpg", "sekil42.jpg", "sekil43.jpg", "sekil44.jpg"],
         "vasiteci": {
           "ad": "New Europe",
           "nov": "agent",
@@ -172,7 +172,7 @@
         "temir": "yoxdur",
         "ünvan": "Nizami m.",
         "qiymet": "250AZN/ay",
-        "image": [],
+        "image": [ "sekil45.jpg", "sekil46.jpg", "sekil47.jpg", "sekil48.jpg"],
         "vasiteci": {
           "ad": "Rəşad",
           "nov": "agent",

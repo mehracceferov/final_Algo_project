@@ -7,7 +7,7 @@
         "temir": "yoxdur",
         "ünvan": " Masazır q.",
         "qiymet": "475 000  AZN",
-        "image": [],
+        "image": ["sekil1.jpg", "sekil2.jpg", "sekil3.jpg", "sekil4.jpg"],
         "vasiteci": {
           "ad": "Abşeron 8",
           "nov": "agent",
@@ -22,7 +22,7 @@
         "temir": "yoxdur",
         "ünvan": " Türkan q.",
         "qiymet": "32 000  AZN",
-        "image": [],
+        "image": [ "sekil5.jpg", "sekil6.jpg", "sekil7.jpg", "sekil8.jpg"],
         "vasiteci": {
           "ad": "Leyla Xanım",
           "nov": "mülkiyyətçi",
@@ -37,7 +37,7 @@
         "temir": "yoxdur",
         "ünvan": "  Bilgəh q.",
         "qiymet": "200 000  AZN",
-        "image": [],
+        "image": [ "sekil9.jpg", "sekil10.jpg", "sekil11.jpg", "sekil12.jpg"],
         "vasiteci": {
           "ad": "Hacı Şahin",
           "nov": "agent",
@@ -52,7 +52,7 @@
         "temir": "yoxdur",
         "ünvan": " Mərdəkan q.",
         "qiymet": "145 000  AZN",
-        "image": [],
+        "image": [ "sekil13.jpg", "sekil14.jpg", "sekil15.jpg", "sekil16.jpg"],
         "vasiteci": {
           "ad": "Emil",
           "nov": "mülkiyyətçi",
@@ -67,7 +67,7 @@
         "temir": "yoxdur",
         "ünvan": " Şüvəlan q.",
         "qiymet": "88 000  AZN",
-        "image": [],
+        "image": [ "sekil17.jpg", "sekil18.jpg", "sekil19.jpg", "sekil20.jpg"],
         "vasiteci": {
           "ad": "Murad",
           "nov": "agent",
@@ -82,7 +82,7 @@
         "temir": "yoxdur",
         "ünvan": " Biləcəri q.",
         "qiymet": "1 500 000  AZN",
-        "image": [],
+        "image": [  "sekil21.jpg", "sekil22.jpg", "sekil23.jpg", "sekil24.jpg"],
         "vasiteci": {
           "ad": "Əmlak xidmətləri",
           "nov": "agent",
@@ -97,7 +97,7 @@
             "temir": "yoxdur",
             "ünvan": " Biləcəri q.",
             "qiymet": "250 000  AZN",
-            "image": [],
+            "image": [ "sekil25.jpg", "sekil26.jpg", "sekil27.jpg", "sekil28.jpg"],
             "vasiteci": {
             "ad": "Elan sahibi",
             "nov": "mülkiyyətçi",
@@ -112,7 +112,7 @@
             "temir": "yoxdur",
             "ünvan": " Şüvəlan q.",
             "qiymet": "115 000  AZN",
-            "image": [],
+            "image": [ "sekil29.jpg", "sekil30.jpg", "sekil31.jpg", "sekil32.jpg"],
             "vasiteci": {
             "ad": "Elan ",
             "nov": "agent",
@@ -127,7 +127,7 @@
           "temir": "yoxdur",
           "ünvan": "  Buzovna q.",
           "qiymet": "310 000  AZN",
-          "image": [],
+          "image": [ "sekil33.jpg", "sekil34.jpg", "sekil35.jpg", "sekil36.jpg"],
           "vasiteci": {
           "ad": "Haci ",
           "nov": "mülkiyyətçi",
@@ -142,7 +142,7 @@
         "temir": "yoxdur",
         "ünvan": "  Şüvəlan q.",
         "qiymet": "115 000  AZN",
-        "image": [],
+        "image": [ "sekil37.jpg", "sekil38.jpg", "sekil39.jpg", "sekil40.jpg"],
         "vasiteci": {
         "ad": "RAMIL ",
         "nov": "agent",
@@ -157,7 +157,7 @@
       "temir": "yoxdur",
       "ünvan": "   Nərimanov r.",
       "qiymet": "1 820 000  AZN",
-      "image": [],
+      "image": [ "sekil41.jpg", "sekil42.jpg", "sekil43.jpg", "sekil44.jpg"],
       "vasiteci": {
       "ad": "Amid bəy",
       "nov": "agent",
@@ -172,7 +172,7 @@
     "temir": "yoxdur",
     "ünvan": "Novxanı q.",
     "qiymet": "10 000  AZN",
-    "image": [],
+    "image": [ "sekil45.jpg", "sekil46.jpg", "sekil47.jpg", "sekil48.jpg"],
     "vasiteci": {
     "ad": "Zakir",
     "nov": "mülkiyyətçi",

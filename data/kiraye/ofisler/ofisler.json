@@ -8,7 +8,7 @@
         "temir": "var",
         "ünvan": "Nərimanov r.",
         "qiymet": "3 000AZN/ay",
-        "image": [],
+         "image": ["sekil1.webp", "sekil2.webp", "sekil3.webp", "sekil4.webp"],
         "vasiteci": {
           "ad": "CASPRO Daşınmaz Əmlak Agentliyi",
           "nov": "agent",
@@ -24,7 +24,7 @@
         "temir": "var",
         "ünvan": "Nərimanov r.",
         "qiymet": "900AZN/ay",
-        "image": [],
+         "image": ["sekil5.webp", "sekil6.webp", "sekil7.webp", "sekil8.webp"],
         "vasiteci": {
           "ad": "Arzu bəy",
           "nov": "agent",
@@ -40,7 +40,7 @@
         "temir": "var",
         "ünvan": "Nizami m.",
         "qiymet": "1 600AZN/ay",
-        "image": [],
+         "image": ["sekil9.webp", "sekil10.webp", "sekil11.webp", "sekil12.webp"],
         "vasiteci": {
           "ad": "Elnur",
           "nov": "mülkiyyətçi",
@@ -56,7 +56,7 @@
         "temir": "var",
         "ünvan": "Nəriman Nərimanov m.",
         "qiymet": "3 000AZN/ay",
-        "image": [],
+        "image": ["sekil13.webp", "sekil14.webp", "sekil15.webp", "sekil16.webp"],
         "vasiteci": {
           "ad": "Şahlar",
           "nov": "agent",
@@ -72,7 +72,7 @@
         "temir": "yoxdur",
         "ünvan": "Ağ şəhər q.",
         "qiymet": "1 100AZN/ay",
-        "image": [],
+        "image": ["sekil17.webp", "sekil18.webp", "sekil19.webp", "sekil20.webp"],
         "vasiteci": {
           "ad": "Sadiq",
           "nov": "agent",
@@ -88,7 +88,7 @@
         "temir": "yoxdur",
         "ünvan": "20 Yanvar m.",
         "qiymet": "800AZN/ay",
-        "image": [],
+       "image": ["sekil21.webp", "sekil22.webp", "sekil23.webp", "sekil24.webp"],
         "vasiteci": {
           "ad": "Afik",
           "nov": "mülkiyyətçi",
@@ -104,7 +104,7 @@
         "temir": "var",
         "ünvan": "Nizami m.",
         "qiymet": "2 050AZN/ay",
-        "image": [],
+        "image": ["sekil25.webp", "sekil26.webp", "sekil27.webp", "sekil28.webp"],
         "vasiteci": {
           "ad": "Aliyeva Narmin",
           "nov": "agent",
@@ -120,7 +120,7 @@
         "temir": "var",
         "ünvan": "Nizami m.",
         "qiymet": "1 000AZN/ay",
-        "image": [],
+        "image": ["sekil29.webp", "sekil30.webp", "sekil31.webp", "sekil32.webp"],
         "vasiteci": {
           "ad": "Arzu bəy",
           "nov": "agent",
@@ -136,7 +136,7 @@
         "temir": "var",
         "ünvan": "Şah İsmayıl Xətai m.",
         "qiymet": "600AZN/ay",
-        "image": [],
+         "image": ["sekil33.webp", "sekil34.webp", "sekil35.webp", "sekil36.webp"],
         "vasiteci": {
           "ad": "Давид",
           "nov": "agent",
@@ -152,7 +152,7 @@
         "temir": "var",
         "ünvan": " 28 May m.",
         "qiymet": "800AZN/ay",
-        "image": [],
+        "image": ["sekil37.webp", "sekil38.webp", "sekil39.webp", "sekil40.webp"],
         "vasiteci": {
           "ad": "Fərid",
           "nov": "mülkiyyətçi",
@@ -168,7 +168,7 @@
         "temir": "var",
         "ünvan": "Nərimanov r.",
         "qiymet": "2 500AZN/ay",
-        "image": [],
+        "image": [ "sekil41.webp", "sekil42.webp", "sekil43.webp", "sekil44.webp"],
         "vasiteci": {
           "ad": "Elcan",
           "nov": "agent",
@@ -184,7 +184,7 @@
         "temir": "var",
         "ünvan": " Şah İsmayıl Xətai m.",
         "qiymet": "1 200AZN/ay",
-        "image": [],
+        "image": [ "sekil45.webp", "sekil46.webp", "sekil47.webp", "sekil48.webp"],
         "vasiteci": {
           "ad": "AZURE",
           "nov": "agent",
