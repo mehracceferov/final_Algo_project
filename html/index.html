@@ -1,0 +1,348 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+<div class="container">
+    <div class="header_bg">
+        <div class="header-container">
+            <div class="header bz-d-flex bz-align-center">
+                <div class="header__burger_icon js-open-header-menu">
+                    <div class="header__burger_icon-stroke"></div>
+                </div>
+                <div class="header__burger_menu-container js-header-menu">
+                    <div class="header__burger_menu bz-container bz-d-flex">
+                        <div class="header__burger_menu-column">
+                            <a href="" class="header__burger_menu-i">Yaşayış kompleksləri</a>
+                            <a href="" class="header__burger_menu-i">Agentliklər</a>
+                            <a href="" class="header__burger_menu-i">Tikinti xidmətləri</a>
+                        </div>
+                        <div class="header__burger_menu-column">
+                            <a href="" class="header__burger_menu-i">Layihə haqda</a>
+                            <a href="" class="header__burger_menu-i">İstifadəçi razılaşması</a>
+                            <a href="" class="header__burger_menu-i">Məxfilik siyasəti</a>
+                            <div class="header__link-wrapper">
+                                <div class="header__new-label">yeni</div>
+                                <a href="" class="header__burger_menu-i">Reklam yerləşdirin</a>
+                            </div>
+                        </div>
+                        <div class="header__burger_menu-column">
+                            <a href=""
+                                class="header_burger_menu-i header_burger_menu-i--with-icon bz-d-flex bz-gap-5 bz-align-center lang-switcher">
+                                <svg aria-hidden="true" fill="#212C3A" focusable="false" height="20" viewBox="0 0 20 20"
+                                    width="20" xmlns="http://www.w3.org/2000/svg">
+                                    <path
+                                        d="M10 0.5C8.12108 0.5 6.28435 1.05717 4.72209 2.10104C3.15982 3.14491 1.94218 4.62861 1.22315 6.36451C0.504116 8.1004 0.315985 10.0105 0.682544 11.8534C1.0491 13.6962 1.95389 15.3889 3.28249 16.7175C4.61109 18.0461 6.30382 18.9509 8.14664 19.3175C9.98946 19.684 11.8996 19.4959 13.6355 18.7769C15.3714 18.0578 16.8551 16.8402 17.899 15.2779C18.9428 13.7156 19.5 11.8789 19.5 10C19.5 7.48044 18.4991 5.06408 16.7175 3.28249C14.9359 1.50089 12.5196 0.5 10 0.5ZM16.9505 15.0814C16.3205 14.7121 15.6542 14.4085 14.9621 14.1756C15.2924 12.9575 15.4735 11.7037 15.5012 10.4419H18.5942C18.5123 12.1159 17.9407 13.7291 16.9505 15.0814ZM1.39477 10.4419H4.49884C4.52565 11.7043 4.70592 12.9589 5.0357 14.1778C4.3436 14.4107 3.6773 14.7143 3.04733 15.0836C2.05351 13.7317 1.47886 12.1176 1.39477 10.4419ZM3.04954 4.9186C3.67951 5.28793 4.34581 5.59147 5.03791 5.82442C4.70757 7.04254 4.52655 8.29632 4.49884 9.55814H1.40582C1.48775 7.88407 2.05928 6.27087 3.04954 4.9186ZM10.4419 6.60209C11.6767 6.57327 12.9039 6.39976 14.0983 6.08511C14.4125 7.21725 14.5868 8.38361 14.6174 9.55814H10.4419V6.60209ZM10.4419 5.71837V1.4257C11.8337 1.6864 13.0687 3.15116 13.8287 5.24337C12.7219 5.53184 11.5854 5.69123 10.4419 5.71837ZM9.55814 1.4257V5.71837C8.41464 5.69123 7.27813 5.53184 6.17128 5.24337C6.93128 3.15116 8.16628 1.6864 9.55814 1.4257ZM9.55814 6.60209V9.55814H5.38256C5.41318 8.38361 5.58754 7.21725 5.90175 6.08511C7.09615 6.39976 8.32333 6.57327 9.55814 6.60209ZM5.38256 10.4419H9.55814V13.3979C8.32333 13.4267 7.09615 13.6002 5.90175 13.9149C5.58754 12.7827 5.41318 11.6164 5.38256 10.4419ZM9.55814 14.2816V18.5743C8.16628 18.3136 6.93128 16.8488 6.17128 14.7566C7.27813 14.4682 8.41464 14.3088 9.55814 14.2816ZM10.4419 18.5743V14.2816C11.5854 14.3088 12.7219 14.4682 13.8287 14.7566C13.0687 16.8488 11.8337 18.3136 10.4419 18.5743ZM10.4419 13.3979V10.4419H14.6174C14.5868 11.6164 14.4125 12.7827 14.0983 13.9149C12.9039 13.6002 11.6767 13.4267 10.4419 13.3979ZM15.5012 9.55814C15.4744 8.29567 15.2941 7.04114 14.9643 5.82221C15.6564 5.58926 16.3227 5.28572 16.9527 4.91639C17.9504 6.26701 18.529 7.88122 18.6163 9.55814H15.5012ZM16.3849 4.22267C15.8475 4.52815 15.2823 4.78188 14.697 4.98046C14.3195 3.8364 13.7087 2.78316 12.903 1.88744C14.2388 2.36748 15.4355 3.16958 16.3871 4.22267H16.3849ZM7.09477 1.88965C6.28914 2.78537 5.67826 3.83861 5.30082 4.98267C4.71546 4.78409 4.15028 4.53036 3.61291 4.22488C4.56392 3.17209 5.75983 2.37001 7.09477 1.88965ZM3.61291 15.7773C4.15028 15.4718 4.71546 15.2181 5.30082 15.0195C5.67826 16.1636 6.28914 17.2168 7.09477 18.1126C5.75983 17.6322 4.56392 16.8301 3.61291 15.7773ZM12.9052 18.1103C13.7109 17.2146 14.3217 16.1614 14.6992 15.0173C15.2845 15.2159 15.8497 15.4696 16.3871 15.7751C15.4361 16.8279 14.2402 17.63 12.9052 18.1103Z">
+                                    </path>
+                                </svg>
+                                Русский язык
+                            </a>
+                            <div class="header__burger_menu-i">
+                                <div class="header__burger_menu-i-title">Bizimlə əlaqə</div>
+                                <a href=""
+                                    class="header_burger_menu-i header_burger_menu-i--with-icon bz-d-flex bz-align-center phone">
+                                    <svg aria-hidden="true" fill="#2F1F19" focusable="false" height="24"
+                                        viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+                                        <path
+                                            d="M19.1936 16.3831C19.2219 16.6002 19.1558 16.7889 18.9955 16.9493L17.1142 18.8177C17.0293 18.912 16.9185 18.9923 16.7818 19.0583C16.6451 19.1244 16.5107 19.1668 16.3787 19.1857C16.3693 19.1857 16.3409 19.1881 16.2938 19.1928C16.2467 19.1975 16.1854 19.1999 16.1099 19.1999C15.9307 19.1999 15.6407 19.1693 15.2399 19.1079C14.8391 19.0466 14.3488 18.8955 13.7689 18.655C13.1888 18.4143 12.5311 18.0533 11.7955 17.5721C11.06 17.0909 10.2772 16.4303 9.44737 15.5905C8.78725 14.9394 8.24029 14.3166 7.80649 13.7221C7.3727 13.1276 7.02378 12.5779 6.75973 12.073C6.49566 11.5682 6.29762 11.1105 6.16559 10.7C6.03357 10.2895 5.94398 9.93568 5.89683 9.63843C5.84968 9.34118 5.83082 9.10763 5.84025 8.93777C5.84968 8.76791 5.85439 8.67355 5.85439 8.65467C5.87325 8.52256 5.91569 8.38809 5.9817 8.25127C6.04772 8.11444 6.12787 8.00356 6.22218 7.91863L8.10352 6.03606C8.23555 5.90395 8.38643 5.83789 8.55618 5.83789C8.67877 5.83789 8.78722 5.87328 8.88153 5.94405C8.97583 6.01482 9.05599 6.10211 9.122 6.20591L10.6356 9.07932C10.7204 9.2303 10.744 9.39544 10.7063 9.57473C10.6686 9.75402 10.5884 9.90501 10.4658 10.0277L9.77269 10.7213C9.75383 10.7401 9.73733 10.7708 9.72318 10.8133C9.70904 10.8557 9.70196 10.8911 9.70196 10.9194C9.73968 11.1176 9.82456 11.3441 9.95658 11.5989C10.0697 11.8253 10.2442 12.1013 10.48 12.4269C10.7157 12.7525 11.0505 13.1275 11.4843 13.5522C11.9087 13.9863 12.2859 14.3236 12.6159 14.5643C12.9459 14.8048 13.2219 14.9818 13.4435 15.0951C13.6651 15.2083 13.8348 15.2767 13.9527 15.3002L14.1295 15.3356C14.1483 15.3356 14.179 15.3285 14.2214 15.3144C14.2639 15.3002 14.2945 15.2837 14.3134 15.2648L15.1197 14.4439C15.2895 14.2929 15.4874 14.2174 15.7138 14.2174C15.8742 14.2174 16.0014 14.2457 16.0957 14.3024H16.1098L18.8399 15.916C19.038 16.0388 19.1558 16.1944 19.1936 16.3831Z">
+                                        </path>
+                                    </svg>
+                                    (012) 526-94-94
+                                </a>
+                                <a href="" class="header__burger_menu-i email">bina@bina.az</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="" class="header__logo"></a>
+                <div class="header__nav bz-d-flex bz-justify-center bz-gap-10">
+                    <a href="" class="sale header__nav-i">Alqı-satqı</a>
+                    <a href="" class="rent header__nav-i">Kirayə</a>
+                    <a href="" class="rent header__nav-i">Günlük</a>
+                    <a href="" class="agencies header__nav-i">Agentliklər</a>
+                    <a href="" class="residences header__nav-i">Yaşayış kompleksləri</a>
+                </div>
+                <div class="header__buttons bz-d-flex bz-align-center">
+                    <div class="header__buttons_i bookmarks-link bz-d-flex bz-align-center">
+                        <a href="" class="tooltip-hover">Seçilmişlər</a>
+                        <div class="header__buttons_i-tooltip">Seçilmişlər</div>
+                    </div>
+                    <a href="" class="bz-d-flex bz-align-center bz-gap-10 header__buttons_i new-link">
+                        <svg fill="none" height="17" viewBox="0 0 17 18" width="17" xmlns="http://www.w3.org/2000/svg">
+                            <circle cx="8.5" cy="9" r="8" stroke="white" stroke-width="1.25"></circle>
+                            <path clip-rule="evenodd"
+                                d="M12.5909 8.31796H9.18183V4.90887C9.18183 4.53251 8.87637 4.22705 8.50001 4.22705C8.12364 4.22705 7.81819 4.53251 7.81819 4.90887V8.31796H4.4091C4.03273 8.31796 3.72728 8.62341 3.72728 8.99978C3.72728 9.37614 4.03273 9.6816 4.4091 9.6816H7.81819V13.0907C7.81819 13.4671 8.12364 13.7725 8.50001 13.7725C8.87637 13.7725 9.18183 13.4671 9.18183 13.0907V9.6816H12.5909C12.9673 9.6816 13.2727 9.37614 13.2727 8.99978C13.2727 8.62341 12.9673 8.31796 12.5909 8.31796Z"
+                                fill="white" fill-rule="evenodd" stroke="white" stroke-width="0.2"></path>
+                        </svg>
+                        Yeni elan
+                    </a>
+                    <a href="" class="header__buttons_i auth-link js-auth-link">Giriş</a>
+                </div>
+            </div>
+        </div>
+        <div class="header-overlay js-header-overlay" style="display: none;"></div>
+        <div class="search-container">
+            <div class="search">
+                <form action="" class="simple_form search-form js-search-form">
+                    <div class="search-row">
+                        <div class="search-row_cell search-row_cell--leased">
+                            <div
+                                class="selectric-wrapper selectric-js-selectric selectric-single selectric-js-search-leased selectric-responsive selectric-below">
+                                <div class="selectric-hide-select">
+                                    <select name="" id="q_leased" class="js-selectric single js-search-leased"
+                                        tabindex="-1">
+                                        <option value="false" selected="selected">Alış</option>
+                                        <option value="true">Kirayə</option>
+                                    </select>
+                                </div>
+                                <div class="selectric">
+                                    <span class="label">Alış</span>
+                                    <span class="button"></span>
+                                </div>
+                                <div class="selectric-items">
+                                    <div class="selectric-scroll">
+                                        <ul>
+                                            <li class="selected"><span>Alış</span></li>
+                                            <li class="last"><span>Kirayə</span></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <input class="selectric-input">
+                            </div>
+                            <div class="search-row__select-label">Alış</div>
+                        </div>
+                        <div class="search-row_cell search-row_cell--category">
+                            <div
+                                class="selectric-wrapper selectric-search-form__category selectric-js-search-form-category selectric-js-selectric selectric-single selectric-responsive">
+                                <div class="selectric-hide-select">
+                                    <select name="" id="q_category_id"
+                                        class="search-form__category js-search-form-category js-selectric single">
+                                        <option value="1" class="selected">Mənzil</option>
+                                        <option value="2">Yeni tikili</option>
+                                        <option value="3">Köhnə tikili</option>
+                                        <option value="5">Həyət evi/bağ evi</option>
+                                        <option value="7">Ofis</option>
+                                        <option value="8">Qaraj</option>
+                                        <option value="9">Torpaq</option>
+                                        <option value="10">Obyekt</option>
+                                    </select>
+                                </div>
+                                <div class="selectric">
+                                    <span class="label">Mənzil</span>
+                                    <span class="button"></span>
+                                </div>
+                                <div class="selectric-items" tabindex="-1">
+                                    <div class="selectric-scroll">
+                                        <ul>
+                                            <li>
+                                                <span>Yeni tikili</span>
+                                            </li>
+                                            <li>
+                                                <span>Köhnə tikili</span>
+                                            </li>
+                                            <li>
+                                                <span>Həyət evi/bağ evi</span>
+                                            </li>
+                                            <li>
+                                                <span>Ofis</span>
+                                            </li>
+                                            <li>
+                                                <span>Qaraj</span>
+                                            </li>
+                                            <li>
+                                                <span>Torpaq</span>
+                                            </li>
+                                            <li class="last">
+                                                <span>Obyekt</span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <input class="selectric-input">
+                            </div>
+                            <div class="search-row__select-label">Mənzil</div>
+                        </div>
+                        <div class="search-row_cell search-row_cell--rooms">
+                            <div
+                                class="selectric-wrapper selectric-js-selectric selectric-multiple selectric-js-search-form-rooms selectric-responsive selectric-below">
+                                <div class="selectric-hide-select">
+                                    <select name="" id="" class="js-selectric multiple js-search-form-rooms">
+                                        <option value="">1 otaqlı</option>
+                                        <option value="">2 otaqlı</option>
+                                        <option value="">3 otaqlı</option>
+                                        <option value="">4 otaqlı</option>
+                                        <option value="">5 otaq və daha çox</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="content_bg">
+        <div class="content main-col main-col_rows">
+            <section class="quick-links">
+                <div class="quick-links_container">
+                    <div class="quick-links_header">
+                        <div class="quick-links_tab active">Alış</div>
+                        <div class="quick-links_tab">Kirayə</div>
+                        <a href="" class="quick-links_latest-ads">Bugün – 2273 yeni elan</a>
+                    </div>
+                    <div class="quick-links_content">
+                        <div class="quick-links_lists-container active">
+                            <ul class="quick-links_list">
+                                <li class="quick-links_list-label">Yeni tikililər</li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">1-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">2-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">3-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">4-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">5-otaq və daha çox</a>
+                                </li>
+                            </ul>
+                            <ul class="quick-links_list">
+                                <li class="quick-links_list-label">Köhnə tikililər</li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">1-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">2-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">3-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">4-otaqlı</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">5-otaq və daha çox</a>
+                                </li>
+                            </ul>
+                            <ul class="quick-links_list">
+                                <li class="quick-links_list-label">Yaşayış obyektləri</li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">Mənzillər</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">Yeni tikililər</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">Köhnə tikililər</a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">Həyət evləri/Bağ evləri</a>
+                                </li>
+                            </ul>
+                            <ul class="quick-links_list">
+                                <li class="quick-links_list-label">Ticarət obyektləri</li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">
+                                        Ofislər
+                                    </a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">
+                                        Qarajlar
+                                    </a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">
+                                        Torpaq sahələri
+                                    </a>
+                                </li>
+                                <li class="quick-links_list-item">
+                                    <a href="" class="quick-links_list-link">
+                                        Obyektlər
+                                    </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <aside class="quick-links_aside">
+                    <a href="" class="quick-links_aside-link apartments">
+                        <span class="quick-links_aside-title">Günlük kirayə mənzillər</span>
+                        <span class="quick-links_aside-ads-count">379 elan</span>
+                    </a>
+                    <a href="" class="quick-links_aside-link map-search">
+                        <span class="quick-links_aside-title">Xəritə üzrə axtarış</span>
+                        <span class="quick-links_aside-ads-count">97070 elan</span>
+                    </a>
+                    <a href="" class="quick-links_aside-link construction-services">
+                        <span class="quick-links_aside-title">Tikinti xidmətləri</span>
+                        <span class="quick-links_aside-ads-count">3598 elan</span>
+                    </a>
+                </aside>
+            </section>
+            <div id="js-search-results">
+                <section class="thumblist row residences js-switcher-container">
+                    <header class="section-header">
+                        <div class="switcher_row">
+                            <div class="thumblist-title">
+                                <a href="">YAŞAYIŞ KOMPLEKSLƏRİ</a>
+                            </div>
+                            <div class="service_type_switcher">
+                                <a href="" class="left_case active_link"></a>
+                            </div>
+                        </div>
+                    </header>
+                </section>
+            </div>
+        </div>
+    </div>
+
+   
+        <div class="card">
+
+          
+        </div>
+
+    </div>
+
+
+
+
+
+    </div>
+    </div>
+   
+    <div id="card-wrapper" class="card"></div>
+    <div id="card-wrapper2" class="card"></div>
+    <div id="card-wrapper3" class="card"></div>
+    <div id="card-wrapper4" class="card"></div>
+    <div id="card-wrapper5" class="card"></div>
+    <div id="card-wrapper6" class="card"></div>
+     <div id="card-wrapper7" class="card"></div>
+    <script src="../js/index.js"></script>
+</body>
+
+</html> 

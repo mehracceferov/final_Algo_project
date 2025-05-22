@@ -1,0 +1,196 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font: normal 14px 'Helvetica Neue', Arial, sans-serif;
+   
+}
+
+ul {
+    list-style: none;
+}
+
+
+a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 600;
+}
+
+button {
+    cursor: pointer;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #F4F2EF;
+}
+
+.sign .sign1 {
+    border: none;
+    border-radius: 12px;
+    width: 100px;
+    height: 30px;
+    background-color: #32914E;
+    color: #fff;
+}
+
+.sign .sign2 {
+    border: none;
+    border-radius: 12px;
+    width: 70px;
+    height: 30px;
+    background-color: #fff;
+    color: black;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.row {
+    max-width: 1600px;
+    width: 100%;
+
+}
+
+header {
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+
+}
+
+.left-navbar ul,
+.sign {
+    display: flex;
+    gap: 30px;
+    padding: 10px;
+    background-color: #fff;
+}
+.menu-bar{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.logo {
+    background-color: #fff;
+}
+
+.menu i{
+    color: #B06952;
+    width: 200px;
+}
+
+.left-navbar a,
+.right-navbar a {
+    transition: all 0.3s ease;
+}
+
+.left-navbar a:hover,
+.right-navbar a:hover {
+    color: #B06952;
+}
+
+.left-navbar ul a{
+    padding: 10px 5px;
+    font-weight:100;
+    color:black;
+    text-decoration: none;
+    transition: color 0.2s ease-in-out;
+    letter-spacing: 0.05px;
+    background-color: #fff;
+}
+.sec1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #AD7A5A;
+    width: 100%;
+    height: 70px;
+
+}
+select,input{
+    background-color: #fff;
+}
+.sec1baner img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.sec1content {
+    position: absolute;
+    left: 100px;
+}
+
+.sec1content h2 {
+    color: white;
+    font-size: 3em;
+    line-height: 60px;
+    width: 500px;
+    font-weight: 700px;
+}
+
+.sec1search {
+    margin-top: 30px;
+    padding: 20px;
+    width: 550px;
+    border-radius: 12px;
+    outline: none;
+    border: none;
+}
+
+.sec1button {
+    transform: translateX(-50px);
+    padding: 20px;
+    border-radius: 12px;
+    border: none;
+    background-color: #FFF;
+    cursor: pointer;
+    transition: all 0.8s ease;
+}
+
+.sec1button:hover {
+    background-color: #EEEEF0;
+}
+
+.option {
+    display: flex;
+    justify-content: center;
+
+    width: 70%;
+
+}
+
+.option select {
+    height: 45px;
+    width: 100%;
+    border: none;
+    outline: none;
+    border-right: 1px solid #AD7A5A;
+    padding: 10px;
+    cursor: pointer;
+
+}
+
+.option button {
+    height: 45px;
+    background-color: #fff;
+    border: none;
+}
+
+.option .button2 {
+    background-color: #3D5AF3;
+    color: #fff;
+    padding: 10px;
+}
+
+.sect1price {
+    padding: 10px;
+    outline: none;
+    border: none;
+}
